@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm a current student at California State University of Long Beach and an aspiring Software Engineer! 😁
 [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenm7777)](https://github.com/stephenm7777/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenm7777&layout=compact)](https://github.com/stephenm7777/github-readme-stats)
 <!--
