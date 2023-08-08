@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenm7777)](https://github.com/stephenm7777/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenm7777&layout=compact)](https://github.com/stephenm7777/github-readme-stats)
 <!--
 **stephenm7777/stephenm7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
