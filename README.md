@@ -1,17 +1,28 @@
-### I'm a current student at California State University of Long Beach and an aspiring Software Engineer! 😁
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenm7777)](https://github.com/stephenm7777/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenm7777&layout=compact)](https://github.com/stephenm7777/github-readme-stats)
-<!--
-**stephenm7777/stephenm7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 Hello, 👋  I'm Stephen 
+  
+- 📚 Currently studying Computer Science at CSULB
+- 🌱 I have a strong foundation in Web Development, and I am constantly studying, improving and learning new Technologies. 
+- 📫 Reach me out with [Linkedin](www.linkedin.com/in/stephen-martinez-043553257).
+- ⚡ Annual Planning: Make progress, be consistent, become a Software engineer.
+<div align="left">  
+  
 
-Here are some ideas to get you started:
+## 💻 Languages & Tools 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,bootstrap,mongo,mysql,git,visualstudio,vscode,idea,linux" />
+</a>
+
+</div>
+
+<div align="center">  
+
+## 📊 Activity
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=stephenm7777&theme=tokyonight)](https://git.io/streak-stats)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stephenm7777&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stephenm7777&theme=blueberry)  
+
+</div>
+  
+
