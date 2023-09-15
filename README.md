@@ -2,7 +2,7 @@
   
 - 📚 Currently studying Computer Science at CSULB
 - 🌱 I have a strong foundation in Web Development, and I am constantly studying, improving and learning new Technologies. 
-- 📫 Reach me out with [Linkedin](www.linkedin.com/in/stephen-martinez-043553257).
+- 📫 Reach out to me [Linkedin](www.linkedin.com/in/stephen-martinez-043553257).
 - ⚡ Annual Planning: Make progress, be consistent, become a Software engineer.
 <div align="left">  
   
