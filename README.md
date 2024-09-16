@@ -1,6 +1,7 @@
-## 💫 Hello, 👋  I'm Stephen 
+## 💫 Hello, 👋 I'm Stephen
+<div align="left">
   
-- 📚 Currently studying Computer Science
-- 🌱 I have a strong foundation in Embedded Software engineering, and I am constantly studying, improving and learning new Technologies.
-- ⚡ Annual Planning: Make progress, be consistent, become a Software engineer.
-<div align="left">  
+I'm a Software Engineer in Test (SWE) passionate about building reliable, efficient, and scalable software. My focus is on ensuring quality through comprehensive testing, automation, and performance tuning.
+
+Feel free to explore my projects, contributions, and ideas below! I'm not very active on social media, so some of my content there might be outdated.
+</div>
