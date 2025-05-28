@@ -1,5 +1,3 @@
 <div align="left">
-no1 even reads these 
-
-I love cats :D
+aspiring swe that likes firmware and computer vision 
 </div>
